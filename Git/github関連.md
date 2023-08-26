@@ -11,5 +11,12 @@ Team という機能では Organization の中にグループを作ることが�
 https://github.com/yamada-ya
 
 1. 作りたいものがある場合、まずはリポジトリを作成する.
-![リポジトリ作成場所](https://github.com/yamada-ya/documents/Git/images/repo.jpg)
+![リポジトリ作成場所](https://raw.githubusercontent.com/yamada-ya/documents/main/Git/images/repo.jpg)
 
+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
+
+
+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
+
+
+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
